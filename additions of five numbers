@@ -1,0 +1,7 @@
+def add(num1,num2,num3,num4,num5):
+    result=num1+num2+num3+num4+num5
+    print(result)
+def main():
+    add(20,10,30,40,50)
+if __name__=='__main__':
+        main()
